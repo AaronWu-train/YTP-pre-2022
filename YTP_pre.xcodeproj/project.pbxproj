@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BA9F60A6288AA60700CD381B /* pD.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BA9F60A5288AA60700CD381B /* pD.cpp */; };
+		BA9F60A6288AA60700CD381B /* pD_part.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BA9F60A5288AA60700CD381B /* pD_part.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,9 +26,7 @@
 		BA9F6095288A938400CD381B /* YTP_pre */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = YTP_pre; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA9F6098288A938400CD381B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		BA9F609F288A987F00CD381B /* pB.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pB.cpp; sourceTree = "<group>"; };
-		BA9F60A1288A9C4E00CD381B /* pC.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pC.cpp; sourceTree = "<group>"; };
-		BA9F60A3288AA35B00CD381B /* pG.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pG.cpp; sourceTree = "<group>"; };
-		BA9F60A5288AA60700CD381B /* pD.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pD.cpp; sourceTree = "<group>"; };
+		BA9F60A5288AA60700CD381B /* pD_part.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pD_part.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,9 +61,7 @@
 			children = (
 				BA9F6098288A938400CD381B /* main.cpp */,
 				BA9F609F288A987F00CD381B /* pB.cpp */,
-				BA9F60A1288A9C4E00CD381B /* pC.cpp */,
-				BA9F60A3288AA35B00CD381B /* pG.cpp */,
-				BA9F60A5288AA60700CD381B /* pD.cpp */,
+				BA9F60A5288AA60700CD381B /* pD_part.cpp */,
 			);
 			path = codes;
 			sourceTree = "<group>";
@@ -127,7 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA9F60A6288AA60700CD381B /* pD.cpp in Sources */,
+				BA9F60A6288AA60700CD381B /* pD_part.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
