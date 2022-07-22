@@ -45,7 +45,7 @@
 		BA9F608C288A938400CD381B = {
 			isa = PBXGroup;
 			children = (
-				BA9F6097288A938400CD381B /* YTP_pre */,
+				BA9F6097288A938400CD381B /* codes */,
 				BA9F6096288A938400CD381B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,7 +58,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BA9F6097288A938400CD381B /* YTP_pre */ = {
+		BA9F6097288A938400CD381B /* codes */ = {
 			isa = PBXGroup;
 			children = (
 				BA9F6098288A938400CD381B /* main.cpp */,
@@ -67,7 +67,7 @@
 				BA9F60A3288AA35B00CD381B /* pG.cpp */,
 				BA9F60A5288AA60700CD381B /* pD.cpp */,
 			);
-			path = YTP_pre;
+			path = codes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
